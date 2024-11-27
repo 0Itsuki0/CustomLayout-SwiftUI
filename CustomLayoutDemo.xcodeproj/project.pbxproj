@@ -17,6 +17,16 @@
 		98D92F5B2CF6B64900B46C4A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		98D92F7A2CF7078900B46C4A /* Exceptions for "ReadmeAssets" folder in "CustomLayoutDemo" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				ComposedLayout.gif,
+			);
+			target = 9887D6CE2CF2DABE004D3C03 /* CustomLayoutDemo */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		9887D6D12CF2DABE004D3C03 /* CustomLayoutDemo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
@@ -25,6 +35,9 @@
 		};
 		98D92F5E2CF6B65500B46C4A /* ReadmeAssets */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				98D92F7A2CF7078900B46C4A /* Exceptions for "ReadmeAssets" folder in "CustomLayoutDemo" target */,
+			);
 			path = ReadmeAssets;
 			sourceTree = "<group>";
 		};

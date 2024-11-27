@@ -26,7 +26,14 @@
 ![](./ReadmeAssets/PyramidStack.png)
 
 
+## Layout Composition
+[Composed Layout for Responsive UI](./CustomLayoutDemo/ComposedStack.swift)
+
+![](./ReadmeAssets/ComposedLayout.gif)
+
+
 ## Related Blogs
 - [SwiftUI: Step 0 to Layout Protocol](https://levelup.gitconnected.com/swiftui-step-0-to-layout-protocol-40d274c48814)
 - [SwiftUI: Caching in Layout Protocol]()
 - [SwiftUI: Mastering Layout Values in Layout Protocol]()
+- [SwiftUI: Responsive UI Two Ways and How Composed Layout Shines]()

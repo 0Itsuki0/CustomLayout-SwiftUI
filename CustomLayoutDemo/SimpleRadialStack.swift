@@ -9,7 +9,6 @@ import SwiftUI
 
 struct SimpleRadialStack: Layout {
    
-    
     struct CacheData {
         var radius: CGFloat?
         var angle: CGFloat
